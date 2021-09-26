@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FkaVmkynLfnfSxeKroAwyUDKZ87hu5o14yviontqrgieHPc1uRAMpVO/sZ/0oX+AHKNq2g10gNbv4+HZCWnkAw==",
+  "dgSpecHash": "UbJXejBD/iORsbqJpDSLEaDW+twOrGGVgxvd1gkSP0C3WDY2R6vXgzjEY8zEZO/bctuYV2mvphd+crL5GY6K7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\angel\\OneDrive\\Desktop\\RemindMe-SourceCode\\RemindMe-backend\\RemindMe\\RemindMe.csproj",
+  "projectFilePath": "C:\\Users\\angel\\OneDrive\\Desktop\\RemindMe-SourceCode\\RemindMe-backend\\remindme-backend\\RemindMe\\RemindMe.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\angel\\.nuget\\packages\\firebaseauthentication.net\\3.7.1\\firebaseauthentication.net.3.7.1.nupkg.sha512",
     "C:\\Users\\angel\\.nuget\\packages\\firebasestorage.net\\1.0.3\\firebasestorage.net.1.0.3.nupkg.sha512",
